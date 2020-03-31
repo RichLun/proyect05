@@ -1,2 +1,2 @@
-# proyecto de prueba 03
-El mismo proyecto pero en remoto
+# project salute
+This is a remote project
